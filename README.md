@@ -1,4 +1,4 @@
-# Face Recognition System
+# Iot base attendence management system
 
 This repository contains the code for a Face Recognition System developed as part of a Final Year Project (FYP). The system is designed to automate user attendance and surveillance using facial recognition technology.
 
